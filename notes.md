@@ -20,6 +20,8 @@ Next, for each note:
 1. Send note + final category list → LLM
 2. Ask: "Assign this note to a category & extract the key details to start building a library of knowledge in this category"
 
+## Store data
+- Data will be stored in SQL light, API endpoints will exist in backend to query this data.
 
 
 ## How to view data:
